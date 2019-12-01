@@ -1,28 +1,29 @@
-# AoC_2019
- 
-## Completed days: [0: Nothing, *: First part, **: all parts]:
-- Day 1: **
-- Day 2: 0
-- Day 3: 0
-- Day 4: 0
-- Day 5: 0
-- Day 6: 0
-- Day 7: 0
-- Day 8: 0
-- Day 9: 0
-- Day 10: 0
-- Day 11: 0
-- Day 12: 0
-- Day 13: 0
-- Day 14: 0
-- Day 15: 0
-- Day 16: 0
-- Day 17: 0
-- Day 18: 0
-- Day 19: 0
-- Day 20: 0
-- Day 21: 0
-- Day 22: 0
-- Day 23: 0
-- Day 24: 0
-- Day 25: 0
+# 🎄 Advent of Code 2019
+****
+## Completed days: [🌑: nothing, 🌓: first part, ⭐⭐: all parts]:
+****
+- Day 1: ⭐⭐
+- Day 2: 🌑
+- Day 3: 🌑
+- Day 4: 🌑
+- Day 5: 🌑
+- Day 6: 🌑
+- Day 7: 🌑
+- Day 8: 🌑
+- Day 9: 🌑
+- Day 10: 🌑
+- Day 11: 🌑
+- Day 12: 🌑
+- Day 13: 🌑
+- Day 14: 🌑
+- Day 15: 🌑
+- Day 16: 🌑
+- Day 17: 🌑
+- Day 18: 🌑
+- Day 19: 🌑
+- Day 20: 🌑
+- Day 21: 🌑
+- Day 22: 🌑
+- Day 23: 🌑
+- Day 24: 🌑
+- Day 25: 🌑
