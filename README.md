@@ -1,8 +1,8 @@
 # 🎄 Advent of Code 2019
 
-## Completed days: [🌑: nothing, 🌓: first part, ⭐⭐: all parts]:
+## Completed days: [🌑: nothing, 🌓: first part, ⭐: all parts]:
 
-- Day 1: ⭐⭐
+- Day 1: ⭐
 - Day 2: 🌑
 - Day 3: 🌑
 - Day 4: 🌑

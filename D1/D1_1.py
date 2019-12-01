@@ -1,3 +1,5 @@
+# AoC 2019 - Day 1 - Part 1
+
 f = open('input.txt', 'r')
 
 sum = 0
